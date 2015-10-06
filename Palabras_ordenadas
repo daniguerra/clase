@@ -1,0 +1,14 @@
+palabras =["abc", "xd", "crm","zl","xb"]
+
+
+Listax = []
+listas = []
+for palabra in palabras:
+pdb.set_trace()
+	if palabra[0] == "x";
+		listax.append(palabra)
+	else:
+		listas.append(palabra)
+		
+lista_final = sorted(listax) + sorted(lista)
+print lista_final
